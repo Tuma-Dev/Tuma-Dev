@@ -1,5 +1,10 @@
 ### 👋 Ola, Eu Sou o Dev Tuma
 
+- 🔭 Hoje Programo Bots e Servidores de Fivem 
+- 📫 Entre em Contato no Discord: ! vRP.Tuma#2874
+<!--
+- 🏠 Meu Servidor do discord: https://discord.gg/Ec7pd2H
+-->
 <div align="center">
   <a href="https://github.com/TumaGameplays">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TumaGameplays&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
