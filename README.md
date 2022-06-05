@@ -5,17 +5,7 @@
 <!--
 - 🏠 Meu Servidor do discord: https://discord.gg/Ec7pd2H
 -->
-<p align="center">
-    <img src="https://media.discordapp.net/attachments/938510935625191445/952735540355158016/file.jpg" />
-</p>
 
-<p align="center">
-    <img src="https://img.shields.io/github/followers/YumiDon?label=Follow&style=social" alt="github followers" /><br>
-    <br>
-    <img src="https://github-readme-stats.vercel.app/api?username=YumiDon&show_icons=true&theme=dark" alt="YumiDon" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YumiDon&theme=dark" alt="YumiDon" />
-    
-</p>
 <div align="center">
   <a href="https://github.com/TumaGameplays">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TumaGameplays&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
